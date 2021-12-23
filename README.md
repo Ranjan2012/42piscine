@@ -8,8 +8,6 @@ methodology that develops both computing and life skills. The 42 cursus is free 
 approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 is the last stage in the selection process for becoming a "cadet" (42's student).
 
-![](https://drive.google.com/file/d/16eKPd6EeLwK0xJ8XRdcyTUjJvDaVCBZW/view?usp=sharing)
-
 
 ![42](https://user-images.githubusercontent.com/96380657/147245864-3988bdca-5f91-45b7-8443-4d135a77be6b.PNG)
 
