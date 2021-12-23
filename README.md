@@ -28,6 +28,6 @@ is the last stage in the selection process for becoming a "cadet" (42's student)
 	All projects are submitted via a remote git repository, which demands students to
 	be at ease with such a system.
 
-Soft-skills
+## **Soft-skills
 
 
